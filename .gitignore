@@ -1,0 +1,18 @@
+# Бинарники
+/chat
+/chat.exe
+/go-ws-chat
+/go-ws-chat.exe
+
+# Тестовые артефакты
+*.test
+*.out
+
+# Редакторы
+.idea/
+.vscode/
+*.swp
+
+# ОС
+.DS_Store
+Thumbs.db
